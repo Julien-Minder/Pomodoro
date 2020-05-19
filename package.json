@@ -40,5 +40,10 @@
     "hooks": {
       "pre-commit": "npx lint-staged"
     }
+  },
+  "dependencies": {
+    "moment": "^2.25.3",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
   }
 }

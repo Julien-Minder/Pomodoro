@@ -1,0 +1,54 @@
+{
+  "id": "app.js",
+  "dependencies": [
+    {
+      "name": "/Users/julien/Desktop/GIT/pomodoro-finale/Pomodoro/package.json",
+      "includedInParent": true,
+      "mtime": 1589894605670
+    }
+  ],
+  "generated": {"js": "console.log(\"coucou\");"},
+  "sourceMaps": {
+    "js": {
+      "mappings": [
+        {
+          "name": "console",
+          "generated": {"line": 1, "column": 0},
+          "source": "app.js",
+          "original": {"line": 1, "column": 0}
+        },
+        {
+          "generated": {"line": 1, "column": 7},
+          "source": "app.js",
+          "original": {"line": 1, "column": 7}
+        },
+        {
+          "name": "log",
+          "generated": {"line": 1, "column": 8},
+          "source": "app.js",
+          "original": {"line": 1, "column": 8}
+        },
+        {
+          "generated": {"line": 1, "column": 11},
+          "source": "app.js",
+          "original": {"line": 1, "column": 0}
+        },
+        {
+          "generated": {"line": 1, "column": 12},
+          "source": "app.js",
+          "original": {"line": 1, "column": 12}
+        },
+        {
+          "generated": {"line": 1, "column": 20},
+          "source": "app.js",
+          "original": {"line": 1, "column": 0}
+        }
+      ],
+      "sources": {"app.js": "console.log(\"coucou\")"},
+      "lineCount": null
+    }
+  },
+  "error": null,
+  "hash": "b86f9dc2bdded96a83e1043b84411738",
+  "cacheData": {"env": {}}
+}

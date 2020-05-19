@@ -1,0 +1,18 @@
+{
+  "id": "index.html",
+  "dependencies": [
+    {
+      "name": "./app.js",
+      "dynamic": true,
+      "resolved": "/Users/julien/Desktop/GIT/pomodoro-finale/Pomodoro/app.js",
+      "parent": "/Users/julien/Desktop/GIT/pomodoro-finale/Pomodoro/index.html"
+    }
+  ],
+  "generated": {
+    "html": "<!DOCTYPE html>\n<html lang=\"en\">\n\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>pomodoro</title>\n</head>\n\n<body>\n    <div id=\"app.js\"></div>\n    <script src=\"/0364f57fbff2fabbe941ed20c328ef1a.js\"></script>\n</body>\n\n</html>"
+  },
+  "sourceMaps": null,
+  "error": null,
+  "hash": "c725379609234dfd179b4fe069ffe99d",
+  "cacheData": {}
+}
